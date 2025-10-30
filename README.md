@@ -13,4 +13,4 @@ Users can register, log in, and manage blog posts (CRUD operations).
 ✅ Environment variable support with `.env`  
 ✅ Ready for deployment and GitHub upload  
 
----
+----
